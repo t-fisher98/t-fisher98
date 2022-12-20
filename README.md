@@ -1,7 +1,4 @@
-- 👋 Hi, my name is Tyler Fisher. I am a studying Software Developer.
-- 🌱 I’m currently taking Computer Software Development at NAIT. We are covering material such as: 
-    - C# web applications with Linq queries for database integration and in the near future; OLTP.
-    - React JS to create a working storefront with real-time database integration using Firebase, and in the near future; Swipe integration for transaction processing.
+- 👋 Hi, my name is Tyler Fisher. I am a recent gradute of Digital Media and IT, Computer Software Development at NAIT.
 
 <!---
 t-fisher98/t-fisher98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
